@@ -48,7 +48,6 @@ namespace Application.Tests
         }
     }
 
-    [Collection("ThirdStage")]
     public class ThirdStage : ThirdStageTestBase
     {
         [Fact]
@@ -61,7 +60,6 @@ namespace Application.Tests
         }
     }
 
-    [Collection("ThirdStage")]
     public class ThirdStageAnotherTest : ThirdStageTestBase
     {
 

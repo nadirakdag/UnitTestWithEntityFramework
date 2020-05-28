@@ -5,7 +5,6 @@ using Xunit;
 
 namespace Application.Tests
 {
-    [Collection("SecondStage")]
     public class SecondStage : IDisposable
     {
         private readonly CustomerDataContext customerDataContext;

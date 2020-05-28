@@ -4,7 +4,6 @@ using Xunit;
 
 namespace Application.Tests
 {
-    [Collection("FirstStage")]
     public class FirstStage
     {
         [Fact]
